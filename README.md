@@ -2,7 +2,7 @@
 
 My first GUI program.
 
-<div>Contact:</div>
+<div face="Times">Contact:</div>
 
 <div>Facebook: https://www.facebook.com/</div>
 <div>Gmail: ozcakircankat@gmail.com</div>
