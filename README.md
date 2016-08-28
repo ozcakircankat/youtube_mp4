@@ -2,6 +2,7 @@
 
 My first GUI program.
 
-Contact:
-Facebook: https://www.facebook.com/
-Gmail: ozcakircankat@gmail.com
+<div>Contact:</div>
+
+<div>Facebook: https://www.facebook.com/</div>
+<div>Gmail: ozcakircankat@gmail.com</div>
