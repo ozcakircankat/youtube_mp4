@@ -1,4 +1,4 @@
-# Youtube MP4
+# Youtube MP4 Downloader
 
 My first GUI program.
 
